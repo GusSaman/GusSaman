@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **fullstack web development in RollingCode School**
 - 📫 How to reach me **gustavo.saman@gmail.com**
 
-<h3 align="center">Conéctate conmigo:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p  align="center">
 <a href="https://www.linkedin.com/in/gussaman/" target="blank"><img align="center" src="https://img1.freepng.es/20181227/gli/kisspng-logo-linkedin-computer-icons-portable-network-grap-5c25574033c961.6856893615459510402121.jpg" alt="gusssaman" height="30" width="40" /></a>
@@ -16,8 +16,8 @@
 </p>
 
 <h3 align="center">Tools:</ h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img1.freepng.es/20180320/csq/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c83fd669f3.8573646215215350398782.jpg" alt="html5" width="40" height="40"/> </a>
- <a href="https:// www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img1.freepng.es/20180425/fre/kisspng-css3-cascading-style-sheets-logo-html-5ae0e5878323b0.7563296815246882635372.jpg" alt="css3" width="40" height="40"/> </a>  </a>   
+<p align="center"> <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img1.freepng.es/20180320/csq/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c83fd669f3.8573646215215350398782.jpg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img1.freepng.es/20180425/fre/kisspng-css3-cascading-style-sheets-logo-html-5ae0e5878323b0.7563296815246882635372.jpg" alt="css3" width="40" height="40"/> </a>  </a>   
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a >
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHybyNmRDLI19O9PWYQM-Cq-f9kIjnN_UUCkaPiZXwyf5n5Vz76aB7RHOKMNGqPsitSEg&usqp=CAU" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target= "_blank" rel="noreferrer"> <img src="https://spng.subpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" alt="mysql" width=" 40"height="40"/> </a>

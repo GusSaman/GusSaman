@@ -26,5 +26,5 @@
  <a href="https://www.java.com " target="_blank" rel="noreferrer"> <img src="https://img1.freepng.fr/20180805/xwk/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766aaf21ab4.3339227715335031469917.jpg" alt="java" width= "40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height=" 40"/> </a> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gussaman&show_icons=true&locale=en&layout=compact" alt="gussaman" /> </p>
+
 

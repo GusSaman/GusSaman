@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">I´am an engineering student in information systems and fullstack web development from San Miguel de Tucumán, Tucuman, Argentina.</h3>
+<h3 align="center">I´am an engineering student in information systems and fullstack web development from San Miguel de Tucumán, Tucumán, Argentina.</h3>
 
 
 

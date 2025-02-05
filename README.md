@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Gustavo Samán</h1>
 <h3 align="center">I´am an engineering student in information systems and fullstack web development from San Miguel de Tucumán, Tucumán, Argentina.</h3>
 
@@ -23,12 +22,14 @@ rel="noreferrer">
 <img src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="html5" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png" alt="css3" width="40" height="40"/> </a>  </a>   
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a >
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png)" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHybyNmRDLI19O9PWYQM-Cq-f9kIjnN_UUCkaPiZXwyf5n5Vz76aB7RHOKMNGqPsitSEg&usqp=CAU" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target= "_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt="mysql" width=" 40"height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2Cl7TKrJZnqIcySObGhSToz0G8jAHbfryA&s" alt="express" width="40" height="40"/>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman. com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height= "40"/> </a> 
  <a href="https://www.java.com " target="_blank" rel="noreferrer"> <img src="https://img1.freepng.fr/20180805/xwk/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766aaf21ab4.3339227715335031469917.jpg" alt="java" width= "40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=400/uploads/users/1125/posts/30546/preview_image/RN.jpg" alt="reactnative" width="40" height=" 40"/> </a> 
+
+
 
 
 
